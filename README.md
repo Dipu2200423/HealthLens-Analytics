@@ -79,13 +79,7 @@ HealthLens Analytics is an interactive healthcare dashboard developed using Powe
 - Gender-wise health analysis
 - Identification of high-risk patients
 
----
 
-## 📷 Dashboard Preview
-
-<img width="100%" alt="Dashboard Screenshot" src="Add Your Screenshot Here">
-
----
 
 ## 💡 Business Impact
 
